@@ -89,7 +89,7 @@ Authentication uses 15-minute access tokens held in client memory and a seven-da
 
 ### 1. Get the project and install dependencies
 
-Replace `<repository-url>` with this repository's clone URL:
+Replace `https://github.com/Narek-Melkumyan/cinema-booking.git` with this repository's clone URL:
 
 ```bash
 git clone https://github.com/Narek-Melkumyan/cinema-booking.git
