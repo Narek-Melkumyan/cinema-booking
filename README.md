@@ -92,7 +92,7 @@ Authentication uses 15-minute access tokens held in client memory and a seven-da
 Replace `<repository-url>` with this repository's clone URL:
 
 ```bash
-git clone <repository-url> cinema-booking
+git clone https://github.com/Narek-Melkumyan/cinema-booking.git
 cd cinema-booking
 npm install
 ```
