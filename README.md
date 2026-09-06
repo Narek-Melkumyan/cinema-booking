@@ -229,9 +229,13 @@ Account-linked booking requests and the My Tickets API use an `Authorization: Be
 
 ## Screenshots
 
+### Customer Interface
+
+<img width="3028" height="5540" alt="screencapture-localhost-3000-2026-09-05-21_07_34" src="https://github.com/user-attachments/assets/c51da6f7-9d0d-4b72-83cb-2ee50c983d22" />
 
 
-
+### Admin Dashboard
+<img width="3028" height="1524" alt="screencapture-localhost-3000-admin-movies-2026-09-05-21_09_03" src="https://github.com/user-attachments/assets/8ae8d446-27d6-4ba5-8bf7-f8f94808bdb5" />
 
 
 
